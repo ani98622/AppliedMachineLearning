@@ -4,3 +4,6 @@ nltk
 matplotlib
 scikit-learn
 spacy
+unicodedata
+string
+
