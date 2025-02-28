@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/AML/Assignment02/mlruns/152647755791668925/f84ff7bdf1074e84ac687f9911df424d/artifacts
+end_time: 1740728082029
+entry_point_name: ''
+experiment_id: '152647755791668925'
+lifecycle_stage: active
+run_id: f84ff7bdf1074e84ac687f9911df424d
+run_name: Logistic Regression
+run_uuid: f84ff7bdf1074e84ac687f9911df424d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740728068058
+status: 3
+tags: []
+user_id: Aniket

@@ -1,0 +1,6 @@
+artifact_location: file:///d:/AML/Assignment02/mlruns/152647755791668925
+creation_time: 1740728058994
+experiment_id: '152647755791668925'
+last_update_time: 1740728058994
+lifecycle_stage: active
+name: SMS Spam Classification with Hyperparameter Tuning
