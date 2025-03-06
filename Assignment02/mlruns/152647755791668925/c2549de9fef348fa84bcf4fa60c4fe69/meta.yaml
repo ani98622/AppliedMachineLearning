@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/AML/Assignment02/mlruns/152647755791668925/c2549de9fef348fa84bcf4fa60c4fe69/artifacts
+end_time: 1741273899944
+entry_point_name: ''
+experiment_id: '152647755791668925'
+lifecycle_stage: active
+run_id: c2549de9fef348fa84bcf4fa60c4fe69
+run_name: Support Vector Machine
+run_uuid: c2549de9fef348fa84bcf4fa60c4fe69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741273895909
+status: 4
+tags: []
+user_id: Aniket

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/AML/Assignment02/mlruns/152647755791668925/a9fcf1e5f6bf47868f6e7f12b2440590/artifacts
+end_time: 1741273895902
+entry_point_name: ''
+experiment_id: '152647755791668925'
+lifecycle_stage: active
+run_id: a9fcf1e5f6bf47868f6e7f12b2440590
+run_name: Random Forest
+run_uuid: a9fcf1e5f6bf47868f6e7f12b2440590
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741273880481
+status: 3
+tags: []
+user_id: Aniket
