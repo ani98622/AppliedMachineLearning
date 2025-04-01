@@ -8,10 +8,8 @@ class TestScoreFunction(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         # Load the trained model from file
-        # cls.model = joblib.load("Random_Forest.pkl")
-        cls.model = joblib.load("Support_Vector_Machine.pkl")
-        # cls.model = joblib.load("Assignment03/Logistic_Regression.pkl")
-
+        cls.model = joblib.load("best_model_svm.pkl")
+        
     def test_smoke(self):
         """Does the function run without crashing?"""
         score("test text", self.model, 0.7)

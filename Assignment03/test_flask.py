@@ -22,7 +22,7 @@ class TestFlaskAPI(unittest.TestCase):
     def test_flask_api(self):
         """Does the API return expected results?"""
         url = "http://127.0.0.1:5000/score"
-        payload = {"text": "Free money now!", "threshold": 0.5}
+        payload = {"text": "Call FREEPHONE 8005420578 now!, to win bike", "threshold": 0.7}
 
         response = requests.post(url, json=payload)
         

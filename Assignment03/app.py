@@ -2,7 +2,7 @@ from flask import Flask, request, jsonify
 import joblib
 
 # Load the trained model and vectorizer
-model = joblib.load("Support_Vector_Machine.pkl")
+model = joblib.load("best_model_svm.pkl")
 vectorizer = joblib.load("tfidf_vectorizer.pkl")
 
 app = Flask(__name__)
