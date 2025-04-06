@@ -10,7 +10,8 @@ if [ "$current_branch" = "main" ]; then
     cd Assignment04 || exit 1
 
     # Run tests with coverage and save the report
-    pytest test_docker.py --cov=. --cov-report=term-missing > coverage.txt
+    pytest test.py --cov=test.py --cov-report=term-missing > coverage.txt
+
 
     # Check if tests passed
     if [ $? -eq 0 ]; then
