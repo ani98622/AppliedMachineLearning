@@ -172,5 +172,5 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-Assignment02/dvc.json
+# Assignment02/dvc.json
 Assignment02/

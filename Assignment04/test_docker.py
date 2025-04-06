@@ -16,7 +16,7 @@ def test_docker():
     time.sleep(5)
 
     try:
-        sample = {"text": "This is a great product"}
+        sample = {"text": "Todays Vodafone numbers ending with 4882 are selected to a receive a £350 award. If your number matches call 09064019014 to receive your Â£350 award."}
         response = requests.post("http://localhost:5000/score", json=sample)
         assert response.status_code == 200
         json_data = response.json()
