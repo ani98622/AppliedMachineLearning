@@ -174,3 +174,5 @@ cython_debug/
 
 # Assignment02/dvc.json
 Assignment02/
+
+Assignment04/coverage.txt
