@@ -28,6 +28,3 @@ def test_docker():
 
     finally:
         subprocess.run(["docker", "stop", "test-container"])
-
-if __name__ == "__main__":
-    test_docker()
